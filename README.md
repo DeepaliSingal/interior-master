@@ -36,16 +36,15 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-- <br/>
-  <a href="https://user-images.githubusercontent.com/72861787/124431977-b3688c80-dd8e-11eb-9e05-da9f18b1078e.png">
+      - <a href="https://user-images.githubusercontent.com/72861787/124431977-b3688c80-dd8e-11eb-9e05-da9f18b1078e.png">
       Desktop View
     </a>
     <br/>
-  <a href="https://user-images.githubusercontent.com/72861787/124432464-47d2ef00-dd8f-11eb-9c4d-a962af9802b3.png">
-      Mobile View
+      - <a href="https://user-images.githubusercontent.com/72861787/124432464-47d2ef00-dd8f-11eb-9c4d-a962af9802b3.png">
+        Mobile View
     </a>
 - What have you learned/improved?
-  Learned some basics of javascript
+      - Learned some basics of javascript
 
 ## Features
 
